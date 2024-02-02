@@ -1,0 +1,34 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Weather.cpp
+  Assignment.cpp
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.h(9,43): warning C4091: 'typedef ': ignored on left of 'SORT' when no variable is declared
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\Assignment.cpp(347,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\Assignment.cpp(427,4): warning C4102: 'std': unreferenced label
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\Assignment.cpp(491,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\Assignment.cpp(549,4): warning C4102: 'std': unreferenced label
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\Assignment.cpp(663,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\Assignment.cpp(938,70): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\Assignment.cpp(955,69): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\Assignment.cpp(969,78): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+  SerialStatistics.cpp
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.h(9,43): warning C4091: 'typedef ': ignored on left of 'SORT' when no variable is declared
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(16,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(51,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(70,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(98,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(114,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(128,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(144,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(167,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\Tutorial 1\SerialStatistics.cpp(190,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+Assignment.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+Assignment.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+Assignment.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+Assignment.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+Assignment.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+Assignment.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+Assignment.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+Assignment.obj : error LNK2019: unresolved external symbol glutBitmapCharacter referenced in function "void __cdecl drawText(char const *,int,int,int,void *)" (?drawText@@YAXPEBDHHHPEAX@Z)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\khork\OneDrive\Desktop\KDU\Parallel\Reduce_dataset_student-20230202T140901Z-001\Reduce_dataset_student\Reduce\x64\Debug\Assignment.exe : fatal error LNK1120: 8 unresolved externals
